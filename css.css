@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#navbar{
+}
+#navbarNav{
+    font-size: 20px;
+}
+#navbar-brand a{
+    font-size: 203px;
+}
+.about-section-padding{
+    padding: 120px;
+}
+.pricing-section-padding{
+    padding: 70px;
+}
+.card-body i{
+    font-size: 20px;
+}
+#row-card{
+align-items: center;
+justify-content: center;
+margin-bottom: 30px;
+}
+
+.contact-section-padding{
+    padding: 70px;
+}
+#card-contact{
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+#card-contact .card{
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+#card-contact .icon-card a i {
+    color:#ffc107;
+  margin-left: 40px;
+  transition: all 0.3s;
+}
+#card-contact .icon-card a i:hover{
+    color: black;
+    transform: 0,3;
+}
+.form-section-padding{
+    padding: 50px;
+}
